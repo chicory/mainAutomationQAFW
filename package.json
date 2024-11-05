@@ -10,5 +10,8 @@
   "devDependencies": {
     "@playwright/test": "^1.43.1",
     "@types/node": "^20.12.12"
+  },
+  "dependencies": {
+    "@google-cloud/bigquery": "^7.8.0"
   }
 }
